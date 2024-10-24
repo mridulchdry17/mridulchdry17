@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on some projects
 - 📫 you can reach me via mridul17chaudhary@gmail.com or on linkedin : www.linkedin.com/in/mridulchdry
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-mridulchdry17&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mridulchdry17)](https://git.io/streak-stats)
