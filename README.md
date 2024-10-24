@@ -35,3 +35,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mridulchdry17&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+
+<h2 align="center">GitHub Stats Overview</h2>
+
+<div align="center">
+  <img src="![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mridulchdry17&show_icons=true&theme=dark&count_private=true)
+" alt="Stats Card" width="45%">
+  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulchdry17&theme=dark)
+" alt="Contributions Card" width="45%">
+</div>
+
