@@ -2,7 +2,8 @@
 - 👀 I’m interested in GEN-AI
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on some projects
-  
+
+![](https://komarev.com/ghpvc/?username=mridulchdry17)
 ## Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mridulchdry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mridulchdry)
